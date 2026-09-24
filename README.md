@@ -1,4 +1,4 @@
-# Contribution [#]: [Add alphabetical sort (A-Z / Z-A) by company name]
+# Contribution: [Add alphabetical sort (A-Z / Z-A) by company name]
 
 **Contribution Number:** [1]  
 **Student:** [Savion Kaphar]  
